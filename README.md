@@ -109,3 +109,5 @@ SD root
 |3x6x3.5MM Side Press Type SMT Tactile Push Button Switch| 1| RS.5 ||
 |CS4344 24Bit DAC Converter Stereo Audio Module| 1|RS.170|[Amazon](https://electropeak.com/cs4344-24bit-dac-converter-stereo-audio-module)
 |502030 500mah battry|1|RS.199|https://amzn.in/d/0jcyAWPH|
+
+``` **Note:** used ai for coding and making firmware```
